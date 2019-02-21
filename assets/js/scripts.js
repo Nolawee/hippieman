@@ -17,7 +17,7 @@ $(document).ready(function() {
 
 	$('#home').height($(window).height()+50);
 
-	$.backstretch('assets/images/straight.jpg');
+	$.backstretch('assets/images/LaffFest 2014-148-min.jpg');
 
 	if($(window).scrollTop() > ($(window).height()+50)){
 		$('.backstretch').hide();
